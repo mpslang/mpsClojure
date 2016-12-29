@@ -422,10 +422,16 @@
             <ref role="3bR37D" to="ffeo:5xa9wY2vh9N" resolve="jetbrains.mps.execution.configurations.pluginSolution" />
           </node>
         </node>
-        <node concept="1SiIV0" id="7wUJ4PFMdWh" role="3bR37C">
-          <node concept="3bR9La" id="7wUJ4PFMdWi" role="1SiIV1">
+        <node concept="1SiIV0" id="375Sh$jXZ00" role="3bR37C">
+          <node concept="3bR9La" id="375Sh$jXZ01" role="1SiIV1">
             <property role="3bR36h" value="false" />
-            <ref role="3bR37D" to="p6ld:5qO$P$Pro19" resolve="com.mbeddr.core.runconfiguration.pluginSolution" />
+            <ref role="3bR37D" to="ffeo:7Kfy9QB6LfQ" resolve="jetbrains.mps.kernel" />
+          </node>
+        </node>
+        <node concept="1SiIV0" id="375Sh$jXZ02" role="3bR37C">
+          <node concept="3bR9La" id="375Sh$jXZ03" role="1SiIV1">
+            <property role="3bR36h" value="false" />
+            <ref role="3bR37D" to="ffeo:1TaHNgiIbIQ" resolve="MPS.Core" />
           </node>
         </node>
       </node>
