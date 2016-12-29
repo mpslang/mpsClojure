@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/clojure/com.github.mpslang.clojure.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/clojure/runtime/com.github.mpslang.clojure.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/clojure/sandbox/com.github.mpslang.clojure.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.github.mpslang.clojure.build/com.github.mpslang.clojure.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com/github/mpslang/com.github.mpslang.clojure.plugin/com.github.mpslang.clojure.plugin.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
